@@ -1,0 +1,11 @@
+commit 58405e287f54966c2ebfe025ab9e913cd65a48a5
+Author: anton <wirus8@mail.ru>
+Date:   Tue Feb 9 12:20:33 2016 +0300
+
+    status.txt
+
+commit b805d6d472f62706a173ffb2cdbff2486d720644
+Author: anton <wirus8@mail.ru>
+Date:   Tue Feb 9 12:16:26 2016 +0300
+
+    add .gitignore
